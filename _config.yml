@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Moonis
+middle_name:
+last_name: Ali
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -97,6 +97,10 @@ blog_name: al-folio # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
+
+# Musings
+musings_name: musings # musings_name will be displayed in your musings page
+musings_description: thoughts and reflections
 
 # Pagination
 pagination:
